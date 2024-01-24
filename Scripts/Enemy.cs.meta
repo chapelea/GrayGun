@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 077f426e8db632d4da18a36e6f7c8802
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - defaultSprite: {instanceID: 0}
+  - Var1Sprite: {instanceID: 0}
+  - Var2Sprite: {instanceID: 0}
+  - Var3Sprite: {instanceID: 0}
+  - Var4Sprite: {instanceID: 0}
+  - AlienEE: {instanceID: 0}
+  - RiflePrefab: {instanceID: 0}
+  - ShotgunPrefab: {instanceID: 0}
+  - ShieldPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
